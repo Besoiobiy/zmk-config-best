@@ -32,7 +32,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - AltGr+LEFT SHIFT
+  - Alt+LEFT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -63,7 +63,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - VOLUME UP
+  - VOLUME UP2
   - '-'
   - '='
   - '['
@@ -75,7 +75,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - VOLUME DOWN
+  - VOLUME DOW2
   - _
   - +
   - '{'
